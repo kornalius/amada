@@ -1,0 +1,1115 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"daily-person",
+				"daily-person-list-item.html	(daily-main.html)"
+			],
+			[
+				"querySele",
+				"querySelectorAll	(app.html)"
+			],
+			[
+				"transla",
+				"translateX"
+			],
+			[
+				"dai",
+				"daily-shift"
+			],
+			[
+				"fet",
+				"fetchData"
+			],
+			[
+				"add",
+				"addresses"
+			],
+			[
+				"addre",
+				"address_id"
+			],
+			[
+				"addr",
+				"address"
+			],
+			[
+				"tar",
+				"targetUrl"
+			],
+			[
+				"error",
+				"error-message"
+			],
+			[
+				"vaad",
+				"vaadin-upload.html	(gui-input.html)"
+			],
+			[
+				"obser",
+				"observers	(iron-list.html)"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"dele",
+				"deletable	(editable-behavior.html)"
+			],
+			[
+				"ob",
+				"observers	(app.html)"
+			],
+			[
+				"time",
+				"timeline"
+			],
+			[
+				"hex",
+				"hex-svg	(paper-radial-item.html)"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"offset",
+				"offsetTop	(radial-item-behavior.html)"
+			],
+			[
+				"poi",
+				"cursor: pointer;	Property"
+			],
+			[
+				"paper-radial",
+				"paper-radial-item	(paper-radial-item.html)"
+			],
+			[
+				"paperadi",
+				"paper-radial-item	(paper-radial-item.html)"
+			],
+			[
+				"paper-rad",
+				"paper-radial-item	(paper-radial-item.html)"
+			],
+			[
+				"check",
+				"paper-checkbox"
+			],
+			[
+				"query",
+				"querySelectorAll	(app.html)"
+			],
+			[
+				"_opera",
+				"_operations"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"_oper",
+				"_operations"
+			],
+			[
+				"parent",
+				"parent_uid"
+			],
+			[
+				"write",
+				"writeUInt32LE"
+			],
+			[
+				"comma_",
+				"comma_array"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/js/index.jsx",
+			"settings":
+			{
+				"buffer_size": 1106,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/js/entities/map.js",
+			"settings":
+			{
+				"buffer_size": 351,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/js/components/fov.js",
+			"settings":
+			{
+				"buffer_size": 646,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/js/ecs.js",
+			"settings":
+			{
+				"buffer_size": 4252,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Gulp Serve",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Gulp Serve",
+					""
+				],
+				[
+					"Packages/User/Gulp.sublime-build",
+					""
+				],
+				[
+					"Packages/User/npm_start.sublime-build",
+					""
+				]
+			],
+			[
+				"Gulp Serve",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "back",
+		"selected_items":
+		[
+			[
+				"back",
+				"AutoBackups: Open File Backup"
+			],
+			[
+				"q",
+				"ChangeQuotes"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"debug",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"backu",
+				"AutoBackups: Open Backups Folder"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"has",
+				"To Hastebin : send"
+			],
+			[
+				"case",
+				"Convert Case: camelCase"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"quo",
+				"ChangeQuotes"
+			],
+			[
+				"forma",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"align",
+				"AlignTab"
+			],
+			[
+				"fetch",
+				"Git: Fetch"
+			],
+			[
+				"bran",
+				"Git (SideBarGit): Branch: switch to…"
+			],
+			[
+				"switch",
+				"Git (SideBarGit): Branch: switch to…"
+			],
+			[
+				"checkout",
+				"Git (SideBarGit): Checkout to…"
+			],
+			[
+				"branc",
+				"Git (SideBarGit): Branch: switch to…"
+			],
+			[
+				"chang",
+				"Git (SideBarGit): Diff: all changes since the last commit"
+			],
+			[
+				"reve",
+				"File: Reveal"
+			],
+			[
+				"revea",
+				"File: Reveal"
+			],
+			[
+				"open",
+				"File Navigator: Open"
+			],
+			[
+				"num",
+				"King: Number: Number Sequence"
+			],
+			[
+				"number",
+				"King: Number: Number Sequence"
+			],
+			[
+				"disa",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"updat",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Indentation: Use Spaces"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"editpro",
+				"Project: Edit Project"
+			],
+			[
+				"rem",
+				"Git: Remote"
+			],
+			[
+				"alig",
+				"AlignTab"
+			],
+			[
+				"",
+				"AutoBackups: Open file backup"
+			]
+		],
+		"width": 754.0
+	},
+	"console":
+	{
+		"height": 298.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/hd2/sources/Amada",
+		"/Volumes/hd2/sources/Amada/app",
+		"/Volumes/hd2/sources/Amada/app/js",
+		"/Volumes/hd2/sources/Amada/app/js/components",
+		"/Volumes/hd2/sources/Amada/app/js/entities",
+		"/Volumes/hd2/sources/Amada/app/js/systems",
+		"/Volumes/hd2/sources/Amada/app/js/ui",
+		"/Volumes/hd2/sources/Amada/app/js/ui/components"
+	],
+	"file_history":
+	[
+		"/Volumes/hd2/sources/Amada/app/js/ui/message-console.js",
+		"/Volumes/hd2/sources/Amada/app/js/ui/display.js",
+		"/Volumes/hd2/sources/Amada/app/js/entities/world.js",
+		"/Volumes/hd2/sources/Amada/app/js/systems/map.js",
+		"/Volumes/hd2/sources/Amada/app/js/systems/physic.js",
+		"/Volumes/hd2/sources/Amada/app/js/systems/world.js",
+		"/Volumes/hd2/sources/Amada/app/js/systems/lighting.js",
+		"/Volumes/hd2/sources/Amada/app/js/components/velocity.js",
+		"/Volumes/hd2/sources/Amada/app/js/components/position.js",
+		"/Volumes/hd2/sources/Amada/app/js/components/fov.js",
+		"/Volumes/hd2/sources/Amada/app/js/components/health.js",
+		"/Volumes/hd2/sources/Amada/app/js/components/map.js",
+		"/Volumes/hd2/sources/Amada/app/js/index.jsx",
+		"/Volumes/hd2/sources/Amada/app/js/entities/map.js",
+		"/Volumes/hd2/sources/Amada/app/js/components/fov.jas",
+		"/Users/alain/sublime_backups/2016-04-17/Volumes/hd2/sources/Amada/app/js/systems/world_083548.js",
+		"/Volumes/hd2/sources/Amada/app/js/amada.js",
+		"/Volumes/hd2/sources/Amada/app/js/components/size.js",
+		"/Volumes/hd2/sources/Amada/app/js/ecs.js",
+		"/Volumes/hd2/sources/Amada/app/js/ui/components/index.jsx",
+		"/Volumes/hd2/sources/Amada/app/styles/default.css",
+		"/Volumes/hd2/sources/Amada/app/styles/border.css",
+		"/Volumes/hd2/sources/Amada/app/js/systems/maps.js",
+		"/Volumes/hd2/sources/Amada/app/index.html",
+		"/Volumes/hd2/sources/Amada/node_modules/rot-js/lib/rot.js",
+		"/Users/alain/Library/Application Support/Trendy/config.json",
+		"/Volumes/hd2/sources/Amada/node_modules/rot-js/README.md",
+		"/Volumes/hd2/sources/Amada/.eslintrc",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Volumes/hd2/sources/Amada/node_modules/eslint/package.json",
+		"/Volumes/hd2/sources/Amada/app/js/ecs/component.js",
+		"/Volumes/hd2/sources/Amada/app/js/ecs/entity.js",
+		"/Volumes/hd2/sources/Amada/app/js/ecs/prioritychain.js",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/Expand Selection to Whitespace/Default (OSX).sublime-keymap",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/PlainTasks/Default (OSX).sublime-keymap",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/MultiEditUtils/Default (OSX).sublime-keymap",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/Default (OSX).sublime-keymap",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/DashDoc/Default (OSX).sublime-keymap",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/Better CoffeeScript/Keymaps/Default (OSX).sublime-keymap",
+		"/Volumes/hd2/sources/Amada/gulpfile.js",
+		"/Volumes/hd2/sources/Amada/src/window-state.js",
+		"/Volumes/hd2/sources/Amada/src/index.js",
+		"/Volumes/hd2/sources/OpenVision/gulpfile.js",
+		"/Volumes/hd2/sources/Amada/package.json",
+		"/Volumes/hd2/sources/Amada/README.md",
+		"/Volumes/hd2/sources/Amada/node_modules/electron-connect/package.json",
+		"/Volumes/hd2/sources/Amada/node_modules/electron-connect/README.md",
+		"/Volumes/hd2/sources/Amada/.babelrc",
+		"/Volumes/hd2/sources/Amada/.gitignore",
+		"/Volumes/hd2/sources/Amada/LICENSE",
+		"/Volumes/hd2/sources/Amada/amada.sublime-project",
+		"/Volumes/hd2/sources/OpenVision/openvision.sublime-project",
+		"/Volumes/hd2/sources/Amada/app/js/components/index.jsx",
+		"/Volumes/hd2/sources/Amada/node_modules/ash/README.md",
+		"/Volumes/hd2/sources/Amada/node_modules/ash/examples/api/ctrl.js",
+		"/Users/alain/Library/Application Support/Monu/data/config.json",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/shared/behaviors/editable-behavior.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/shared/soap/soap-call.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/shared/soap/soap-queue.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/help/tests/gui-cards-tests.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/scripts/globals.js",
+		"/Users/alain/config vpn garda/pfSense-TCP-1194-adeschenes-config.ovpn",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/shared/soap/soap-app.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/shared/soap/soap-mapper.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/shared/soap/soap-endpoints.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/shared/soap/soap-client.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/shared/soap/soap-branch.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/shared/gui/paper-selection-list.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/help/tests/gui-daily-tests.html",
+		"/Users/alain/Library/Caches/Cleanup At Startup/Transmit/6A5FBB78-1AC1-41F9-A04C-728D6C505943/elements.vulcanized.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/gulpfile.js",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/index.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/sw-import.js",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/robots.txt",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/manifest.json",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/help/tests/gui-infos-tests.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/package.json",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/shared/gui/gui-input.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/elements.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/shared/gui/gui-field.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/shared/gui/gui-file-dialog.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/precache.json",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/bower_components/vaadin-upload/vaadin-upload.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/bower_components/vaadin-upload/vaadin-upload-file.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/bower_components/paper-progress/paper-progress.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/bower_components/iron-component-page/iron-component-page.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/scripts/index.js",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/bower_components/polymer/bower.json",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/bower_components/webcomponentsjs/package.json",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/bower_components/webcomponentsjs/build.log",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/bower_components/webcomponentsjs/CustomElements.js",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/bower_components/webcomponentsjs/README.md",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/node_modules/vulcanize/package.json",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/bower_components/vaadin-upload/bower.json",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/bower_components/paper-progress/bower.json",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/bower_components/vaadin-upload/README.md",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/bower_components/paper-progress/.bower.json",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/node_modules/gulp-vulcanize/package.json",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/help/release-notes.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/scripts/soap.js",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/app/search-window.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/info-groups/qualifications-group.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/info-groups/communication-group.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/info-groups/addresses-group.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/info-groups/account-management-group.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/info-groups/accounts-group.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/app/branch-select-window.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/.eslintrc",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/.sublime-eslintrc",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/.eslintrc-sublime",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/User/AutoBackups (OSX).sublime-settings",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/SublimeLinter-contrib-eslint/.sublimelinterrc",
+		"/Applications/Mancy.app/Contents/Resources/app/components/ReplActiveInput.js",
+		"/Applications/Mancy.app/Contents/Resources/app/common/ReplCommon.js",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/tests/gui-tests.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/schedule/daily/daily-main.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/schedule/daily/daily-person-list-item.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/tests/gui-daily-tests.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/schedule/dialogs/book-off-dialog.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/schedule/dialogs/move-shift-dialog.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/shared/gui/collapse-list-detail.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/person/person-main.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/bower_components/polymer/polymer.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/person/persons-page.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/styles/app-theme.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/shared/behaviors/store-listener-behavior.html",
+		"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements/site/site-store.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 112.0,
+		"where_history":
+		[
+			"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/,-node_modules/,-bower_components/,-dist/,-.tmp/,*.js,*.html,*.css",
+			"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/,-node_modules/,-bower_components/,-dist/,-.tmp/,*.js,*.html",
+			"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/,-node_modules/,-bower_components/,-dist/,-.tmp/",
+			"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_entities",
+			"entity",
+			"data",
+			"'$' + ",
+			"Map",
+			"y",
+			"component",
+			"MyBaseClass",
+			"MixinBuilder",
+			"postUpdate",
+			"preUpdate",
+			"postUpdate",
+			"preUpdate",
+			"systemsClass",
+			"makeSystemsClass",
+			"makeEntitiesClass",
+			"entity",
+			"component",
+			"entity",
+			"_entities",
+			"postEntitiesUpdate",
+			"preEntitiesUpdate",
+			"postEntitiesUpdate",
+			"preEntitiesUpdate",
+			"_entities",
+			"entity",
+			"Entity",
+			"entity",
+			"_entities",
+			"postUpdate",
+			"preUpdate",
+			"postUpdateEntities",
+			"preUpdateEntities",
+			"entity",
+			"postUpdate",
+			"preUpdate",
+			"var",
+			"let",
+			"var",
+			"componentAdded",
+			"componentRemoved",
+			"addEntityIfMatch",
+			"entityRemoved",
+			"entityAdded",
+			"Factory",
+			"addEntityIfMatch",
+			"_matchEntity",
+			"world",
+			"entity",
+			"system",
+			"_getFamilyId",
+			"families",
+			"_families",
+			"removedComponent",
+			"entity",
+			"removedEntity",
+			"entities",
+			"systems",
+			"componentAdded",
+			"componentName",
+			"getComponent",
+			"component",
+			"updateComponent",
+			"componentsData",
+			"name",
+			"_components",
+			"componentName",
+			"_components",
+			"components",
+			"component",
+			"Component",
+			"componentName",
+			"_components",
+			"removedComponent",
+			"component",
+			"var",
+			"Entity",
+			"Health",
+			"velocity",
+			"Position",
+			"32",
+			"display",
+			"64",
+			"Family",
+			"Factory",
+			"Family",
+			"unlock",
+			"_lock",
+			"_duration",
+			"update",
+			"Velocity",
+			"getCompo",
+			": function",
+			"init",
+			": function",
+			"},",
+			": function",
+			"},",
+			": function",
+			"},",
+			": function",
+			";",
+			"},",
+			": function",
+			"self",
+			"root",
+			"spacing",
+			"enum",
+			"shorthand",
+			"key",
+			"0,",
+			"\"warning\"",
+			"1,",
+			"2,",
+			"semi",
+			"css",
+			"components",
+			"log",
+			"build-client-assets",
+			"build-client-bundles",
+			"electronVersion",
+			"electron",
+			"openvision",
+			"assign",
+			";",
+			"openvision",
+			"el",
+			"images/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/js/index.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								429,
+								429
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow-twilight (SL).tmTheme",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"tabs_extra_last_activated": 1461411851.28,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/js/entities/map.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								351,
+								351
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow-twilight (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tabs_extra_last_activated": 1460898045.64,
+							"tabs_extra_last_activated_sheet_index": 1,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/js/components/fov.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								335,
+								335
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow-twilight (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"tabs_extra_last_activated": 1460898054.48,
+							"tabs_extra_last_activated_sheet_index": 2,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/js/ecs.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								296,
+								296
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow-twilight (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"tabs_extra_last_activated": 1460897966.18,
+							"tabs_extra_last_activated_sheet_index": 4,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1888.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 238.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-fetch":
+	{
+		"height": 140.0
+	},
+	"pinned_build_system": "",
+	"project": "amada.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"theme",
+				"app/styles/app-theme.html"
+			],
+			[
+				"selectab",
+				"bower_components/iron-selector/iron-multi-selectable.html"
+			],
+			[
+				"iron-resiz",
+				"bower_components/iron-resizable-behavior/iron-resizable-behavior.html"
+			],
+			[
+				"ele",
+				"app/elements/elements.html"
+			],
+			[
+				"rout",
+				"app/elements/routing.html"
+			],
+			[
+				"utils",
+				"app/scripts/utils.js"
+			],
+			[
+				"elem",
+				"app/elements/elements.html"
+			],
+			[
+				"vaa",
+				"bower_components/vaadin-upload/vaadin-upload.html"
+			],
+			[
+				"button",
+				"bower_components/paper-button/paper-button.html"
+			],
+			[
+				"eleme",
+				"app/elements/elements.html"
+			],
+			[
+				"elemt",
+				"node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/web/client/ElementsTreeOutline.js"
+			],
+			[
+				"checkbox",
+				"bower_components/paper-checkbox/paper-checkbox.html"
+			],
+			[
+				"progre",
+				"bower_components/paper-progress/paper-progress.html"
+			],
+			[
+				"styles",
+				"bower_components/paper-styles/paper-styles.html"
+			],
+			[
+				"glob",
+				"app/scripts/globals.js"
+			],
+			[
+				"paper-menu",
+				"bower_components/paper-menu/paper-menu.html"
+			],
+			[
+				"paper-item",
+				"bower_components/paper-item/paper-item-shared-styles.html"
+			],
+			[
+				"iron-list",
+				"bower_components/iron-list/iron-list.html"
+			],
+			[
+				"selectable",
+				"bower_components/iron-selector/iron-selectable.html"
+			],
+			[
+				"overlay",
+				"bower_components/iron-overlay-behavior/iron-overlay-behavior.html"
+			],
+			[
+				"control",
+				"bower_components/iron-behaviors/iron-control-state.html"
+			],
+			[
+				"multi",
+				"bower_components/iron-selector/iron-multi-selectable.html"
+			],
+			[
+				"paper-item-shared-styles",
+				"bower_components/paper-item/paper-item-shared-styles.html"
+			],
+			[
+				"item",
+				"bower_components/paper-item/paper-item.html"
+			],
+			[
+				"card",
+				"bower_components/paper-card/paper-card.html"
+			],
+			[
+				"checkb",
+				"bower_components/paper-checkbox/paper-checkbox.html"
+			],
+			[
+				"selecta",
+				"bower_components/iron-selector/iron-multi-selectable.html"
+			],
+			[
+				"menu",
+				"bower_components/iron-menu-behavior/iron-menu-behavior.html"
+			],
+			[
+				"dropdown",
+				"bower_components/paper-dropdown-menu/paper-dropdown-menu.html"
+			],
+			[
+				"meta",
+				"bower_components/iron-meta/iron-meta.html"
+			],
+			[
+				"poly",
+				"bower_components/polymer/polymer.html"
+			],
+			[
+				"polyme",
+				"bower_components/polymer/polymer-mini.html"
+			],
+			[
+				"polym",
+				"bower_components/polymer/polymer.html"
+			],
+			[
+				"mapper",
+				"app/elements/shared/soap/soap-mapper.html"
+			],
+			[
+				"queu",
+				"app/elements/shared/soap/soap-queue.html"
+			],
+			[
+				"element",
+				"app/elements/elements.html"
+			],
+			[
+				"overla",
+				"bower_components/iron-overlay-behavior/iron-overlay-behavior.html"
+			],
+			[
+				"dialog",
+				"bower_components/paper-dialog-behavior/paper-dialog-behavior.html"
+			],
+			[
+				"rippl",
+				"bower_components/paper-ripple/paper-ripple.html"
+			],
+			[
+				"i18",
+				"app/elements/shared/i18n-store.html"
+			],
+			[
+				"ripp",
+				"bower_components/paper-ripple/paper-ripple.html"
+			],
+			[
+				"layout",
+				"bower_components/paper-styles/classes/shadow-layout.html"
+			],
+			[
+				"shadow",
+				"bower_components/paper-styles/shadow.html"
+			],
+			[
+				"extend",
+				"app/elements/shared/gui/paper-menu-extended.html"
+			],
+			[
+				"paperitem",
+				"bower_components/paper-item/paper-item-behavior.html"
+			],
+			[
+				"menube",
+				"bower_components/iron-menu-behavior/iron-menu-behavior.html"
+			],
+			[
+				"multisele",
+				"bower_components/iron-selector/iron-multi-selectable.html"
+			],
+			[
+				"papeitem",
+				"bower_components/paper-item/paper-item-behavior.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/gsked.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1195.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 426.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
